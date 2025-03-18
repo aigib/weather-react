@@ -17,7 +17,7 @@ export default function Weather(props) {
       displayElectronPaths="false"
       electronPathColor="#707070"
       electronSize={1.5}
-      electronSpeed={0.5}
+      electronSpeed={2}
       nucleusDistanceFromCenter={2.5}
     />
   );
